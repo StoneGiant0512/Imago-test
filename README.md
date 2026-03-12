@@ -1,6 +1,8 @@
 # IMAGO Media Search
 
 A lightweight search layer over IMAGO-style media metadata, built with [Next.js](https://nextjs.org) (App Router), TypeScript, and Tailwind CSS. It provides keyword search, filters (credit, date range, restrictions), sorting, pagination, basic analytics, and a polished search UI.
+# Live Demo
+https://imago-test-iota.vercel.app/
 
 ---
 
